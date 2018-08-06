@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-datastore-gorm-mongodb-ext:6.1.6.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-mongodb-ext/6.1.6.RELEASE/7a889f244779a24aca542824b779c13e6b7aca2a/grails-datastore-gorm-mongodb-ext-6.1.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-mongodb-ext/6.1.6.RELEASE/791140307a5dff880a39af88c1e7d1080ebc0996/grails-datastore-gorm-mongodb-ext-6.1.6.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
